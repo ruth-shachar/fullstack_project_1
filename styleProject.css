@@ -1,0 +1,49 @@
+body{
+    background-image:url('airplanweb.webp');
+    background-size: cover;
+}
+
+.mainbox{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 310px;
+    height: 330px;
+    margin-left: 900px;
+    margin-top: 100px;
+}
+header{
+    background-color: white;
+    height: 35px;
+}
+.b{
+    font-weight: bold;
+    margin-left: 35px;
+    
+}
+.mainbox2{
+    margin-left: 50px;
+    margin-top: 60px;
+    font-weight: bold;
+}
+.login{
+    background-color: black;
+    width: 171px;
+    height: 30px;
+}
+button{
+    background-color: black;
+    color: white;
+    border-style: none;
+    margin-left: 65px;
+    margin-top: 7px;
+}
+header nav a{
+   color: blue;
+}
+.im{
+    position: relative;
+}
+.im img{
+    position: absolute;
+    bottom: -18px;
+    margin-left: 1px;
+}

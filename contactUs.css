@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+}
+
+.box1 {
+    height: 70px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.box2 {
+    height: 50px;
+    background-color: rgb(226, 228, 228);
+}
+
+.box2 nav a {
+    color: gray;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    text-align: center;
+    margin: 0 10px;
+}
+
+.box3 {
+    height: 450px;
+    color: gray;
+}
+
+footer {
+    height: 160px;
+    background-color: rgb(205, 208, 208);
+    text-align: center;
+    color: gray;
+}
+
+footer a {
+    text-decoration: none;
+    color: gray;
+}
+
+.mark {
+    font-weight: bold;
+}
+
+input {
+    width: 400px;
+    height: 30px;
+}
+
+.box3 {
+    margin-left: 440px;
+}
+
+textarea {
+    width: 404px;
+    height: 100px;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+}
